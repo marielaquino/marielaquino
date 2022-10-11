@@ -1,16 +1,16 @@
-## Welcome! 
+# Welcome! 
 
-- 👋 Hi, I’m @marielaquino
-- 👀 I’m interested in ...
+### 👋 Hi! I’m @marielaquino
+### 👀 I’m interested in: 
   -  full stack software develeopment for cloud, e-commerce,and applied NLP/ML  
-- 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
   - using HOC in React
   - the elements of building a personal brand  
-- 💞️ I’m looking to collaborate on ...
+### 💞️ I’m looking to collaborate on ...
   -  language software that is accessible to communities speaking under resourced languages 
-- 📫 How to reach me ...
+### 📫 How to reach me ...
   - email: marielaquino@berkeley.edu
-  - website: marielaquino.com 
+  - website: [marielaquino.com](www.marielaquino.com) 
 
 <!---
 marielaquino/marielaquino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
