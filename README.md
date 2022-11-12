@@ -2,7 +2,7 @@
 
 ### 👋 Hi! I’m @marielaquino
 ### 👀 I’m interested in: 
-  -  full stack software develeopment for cloud, e-commerce,and applied NLP/ML  
+  -  full stack software development for cloud, e-commerce,and applied NLP/ML  
 ### 🌱 I’m currently learning ...
   - using HOC in React
   - the elements of building a personal brand  
