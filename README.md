@@ -4,7 +4,7 @@
 ### 👀 I’m interested in: 
   -  full stack software development for cloud, e-commerce,and applied NLP/ML  
 ### 🌱 I’m currently learning ...
-  - using HOC in React
+  - React
   - the elements of building a personal brand  
 ### 💞️ I’m looking to collaborate on ...
   -  language software that is accessible to communities speaking under resourced languages 
